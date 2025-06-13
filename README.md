@@ -23,7 +23,7 @@
 # Installation
 
 ```shell
-pip install pykeyboard2
+pip install pykeyboard2.0
 ```
 
 # Documentation
