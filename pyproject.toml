@@ -1,5 +1,5 @@
 [project]
-name = "pykeyboard2.0"
+name = "pykeyboard3"
 version = "0.2.0a3"
 authors = [
     { name = "Bad munda" }
